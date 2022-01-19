@@ -1,2 +1,2 @@
-# matrix d lang ide library 
+# matrix dlang ide library 
 hello world
